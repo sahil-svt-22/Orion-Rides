@@ -15,7 +15,7 @@ Orion Rides serves as a testament to modern web development practices, incorpora
 
 ## Preview
 
-Explore the live preview of Orion Rides: [Orion Rides Preview](https://orionrides.netlify.app)
+Explore the live preview of Orion Rides: [Orion Rides Preview](https://merry-rabanadas-775615.netlify.app/)
 
 ## Technologies Used
 
